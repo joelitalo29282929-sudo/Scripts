@@ -1,5 +1,5 @@
 # redz hub
-- **REDZ HUB** is just a script for automations
+- **JOEL** is just a script for automations
 - the script is safe, **KEYLESS** and **FREE** for everyone. made for everyone to get the most out of it
 
 ## Working on
